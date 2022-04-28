@@ -22,6 +22,7 @@ Danfo https://github.com/javascriptdata/dan...
 
 Voor betere search engine
 Zinc https://github.com/prabhatsharma/zinc
+
 MeiliSeach https://github.com/meilisearch/meilis...
 
 Open Source Airtable Alternative
