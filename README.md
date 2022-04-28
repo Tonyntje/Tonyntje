@@ -1,17 +1,12 @@
 - 👋 Hi, I’m @Tonyntje
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Tonyntje/Tonyntje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Front-end Development
+- 📫 How to reach me tony_nieuwenhuijs@live.nl
 
 03-22-2022 OS Projects 
 
-Voor work thread uitbreiding zoals intercom, google analytics etc. Partytown https://github.com/BuilderIO/partytown
+Voor work thread uitbreiding zoals intercom, google analytics etc.
+Partytown https://github.com/BuilderIO/partytown
 
 End-to-end API i.p.v GraphQL
 Trcp https://github.com/trpc/trpc
