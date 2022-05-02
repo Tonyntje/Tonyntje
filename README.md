@@ -5,7 +5,7 @@
 
 Idea's:
 Wiki page in REACT for OP
-
+Pokedex Interactive
 
 03-22-2022 OS Projects 
 
