@@ -21,18 +21,18 @@ Mantine https://mantine.dev/
 
 Voor User Authentication
 Supertokens 
-https://github.com/supertokens/supert...
+https://github.com/supertokens/supertokens-core
 
 2D array functionaliteiten
 Danfo 
-https://github.com/javascriptdata/dan...
+https://github.com/javascriptdata/danfojs
 
 Voor betere search engine
 Zinc 
 https://github.com/prabhatsharma/zinc
 
 MeiliSeach 
-https://github.com/meilisearch/meilis...
+https://github.com/meilisearch/meilisearch
 
 Open Source Airtable Alternative
 NokoDB 
@@ -44,4 +44,4 @@ https://github.com/hoppscotch/hoppscotch
 
 Voor als je niet kan coderen (maar ook voor coders om te snel te werken)
 Amplication 
-https://github.com/amplication/amplic...
+https://github.com/amplication/amplication
