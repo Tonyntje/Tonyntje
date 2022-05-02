@@ -6,8 +6,9 @@
 ## Idea's:
 - Wiki page in REACT for OP<br>
 - Pokedex Interactive<br>
+<br>
 
-### 03-22-2022 OS Projects 
+## 03-22-2022 OS Projects 
 **Voor work thread uitbreiding zoals intercom, google analytics etc.**<br>
 Partytown: https://github.com/BuilderIO/partytown<br>
 
