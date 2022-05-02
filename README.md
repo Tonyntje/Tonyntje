@@ -8,7 +8,7 @@ Wiki page in REACT for OP
 Pokedex Interactive
 
 ### 03-22-2022 OS Projects 
-**Voor work thread uitbreiding zoals intercom, google analytics etc.**
+**Voor work thread uitbreiding zoals intercom, google analytics etc.**<br>
 Partytown: https://github.com/BuilderIO/partytown
 
 **End-to-end API i.p.v GraphQL**
