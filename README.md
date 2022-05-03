@@ -4,8 +4,9 @@
 - 📫 How to reach me tony_nieuwenhuijs@live.nl
 
 ## Idea's:
-- Wiki page in REACT for OP<br>
-- Pokedex Interactive<br>
+- Wiki page in REACT for OP (Advanced Scripting sandbox)<br>
+- Pokedex Interactive (Advanced Scripting sandbox)<br>
+- Psychedelic experience website (advanced CSS)<br>
 <br>
 
 ## Study extra:
