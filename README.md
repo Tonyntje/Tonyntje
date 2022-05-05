@@ -3,6 +3,18 @@
 - 🌱 I’m currently learning Front-end Development
 - 📫 How to reach me tony_nieuwenhuijs@live.nl
 
+## Development Tools
+Wordpress, HTML5, CSS3, Javascript, PHP, Git, Scrum, Debugging, Emmet
+
+Also experienced with:
+Figma, Adobe XD, Photoshop, Illustrator, UX Design
+
+Coming soon:
+Jest, React, Redux, Router, Test-driven Development, Unit Testing
+
+Would like to learn:
+Next.js, Vue.js, Vite, Nuxt, Typescript, React query, Svelte, Three.js, Machine Learning, Python
+
 ## Idea's:
 - Wiki page in REACT for OP (Advanced Scripting sandbox)<br>
 - Pokedex Interactive (Advanced Scripting sandbox)<br>
