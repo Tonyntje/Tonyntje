@@ -13,7 +13,7 @@ Coming soon:
 Jest, React, Redux, Router, Test-driven Development, Unit Testing
 
 Would like to learn:
-Next.js, Vue.js, Vite, Nuxt, Typescript, React query, Svelte, Three.js, Machine Learning, Python
+Next.js, Vue.js, Vite, Nuxt, Typescript, React query, Svelte, Three.js, Machine Learning, Python, Tauri
 
 ## Idea's:
 - Wiki page in REACT for OP (Advanced Scripting sandbox)<br>
