@@ -23,6 +23,8 @@ Next.js, Vue.js, Vite, Nuxt, Typescript, React query, Svelte, Three.js, Machine 
 
 ## Study extra:
 Good & bad coding: https://www.youtube.com/watch?v=Mus_vwhTCq0<br>
+Jest Crash Course: https://www.youtube.com/watch?v=7r4xVDI2vho<br>
+Await possibilities: https://www.youtube.com/watch?v=vn3tm0quoqE<br>
 <br>
 ## 03-22-2022 OS Projects 
 **Voor work thread uitbreiding zoals intercom, google analytics etc.**<br>
