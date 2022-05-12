@@ -19,6 +19,7 @@ Next.js, Vue.js, Vite, Nuxt, Typescript, React query, Svelte, Three.js, Machine 
 - Wiki page in REACT for OP (Advanced Scripting sandbox)<br>
 - Pokedex Interactive (Advanced Scripting sandbox)<br>
 - Psychedelic experience website (advanced CSS)<br>
+- Chat functions bundle incl. dashboard
 <br>
 
 ## Study extra:
