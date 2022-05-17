@@ -20,6 +20,7 @@ Next.js, Vue.js, Vite, Nuxt, Typescript, React query, Svelte, Three.js, Machine 
 - Pokedex Interactive (Advanced Scripting sandbox)<br>
 - Psychedelic experience website (advanced CSS)<br>
 - Chat functions bundle incl. dashboard
+- Three.JS -> Sense of Space (polygon streaming)
 <br>
 
 ## Study extra:
