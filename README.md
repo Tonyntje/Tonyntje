@@ -13,7 +13,7 @@ Coming soon:
 React, Redux, Router
 
 Would like to learn:
-Next.js, Vue.js, Vite, Nuxt, Typescript, React query, Svelte, Three.js, Machine Learning, Python, Tauri
+Next.js, Vue.js, Vite, Nuxt, Typescript, React query, Svelte, Three.js, Machine Learning, Python, Tauri, RedwoodJS
 
 ## Idea's:
 - Wiki page in REACT for OP (Advanced Scripting sandbox)<br>
