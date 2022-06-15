@@ -7,10 +7,10 @@
 Wordpress, HTML5, CSS3, Javascript, PHP, Git, Scrum, Debugging, Emmet
 
 Also experienced with:
-Figma, Adobe XD, Photoshop, Illustrator, UX Design, Jest (Test-driven Development), Unit Testing
+Figma, Adobe XD, Photoshop, Illustrator, UX Design, Jest (Test-driven Development), Unit Testing, React
 
 Coming soon:
-React, Redux, Router
+Redux, Router
 
 Would like to learn:
 Next.js, Vue.js, Vite, Nuxt, Typescript, React query, Svelte, Three.js, Machine Learning, Python, Tauri, RedwoodJS
@@ -22,6 +22,14 @@ Next.js, Vue.js, Vite, Nuxt, Typescript, React query, Svelte, Three.js, Machine 
 - Chat functions bundle incl. dashboard
 - Three.JS -> Sense of Space (polygon streaming)
 <br>
+
+## Exersizes:
+- React fetch and structure data
+- - Use with Axios (Optional Chaining?)
+- - Use Compostion instead of Inheritence
+- - Context API vs Prop Drilling
+- Extend project with Redux
+Reference: https://www.youtube.com/watch?v=8jx96lzHNJE
 
 ## Study extra:
 Good & bad coding: https://www.youtube.com/watch?v=Mus_vwhTCq0<br>
