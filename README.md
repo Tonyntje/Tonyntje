@@ -29,6 +29,7 @@ Next.js, Vue.js, Vite, Nuxt, React query, Svelte, Three.js, Machine Learning, Py
 - - Use with Axios (Optional Chaining?)
 - - Use Compostion instead of Inheritence
 - - Context API vs Prop Drilling
+- - https://www.crio.do/blog/top-5-javascript-projects-reactjs/
 - Extend project with Redux
 Reference: https://www.youtube.com/watch?v=8jx96lzHNJE
 
