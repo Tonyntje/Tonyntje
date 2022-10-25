@@ -32,6 +32,8 @@ Next.js, Vue.js, Vite, Nuxt, React query, Svelte, Three.js, Machine Learning, Py
 - - https://www.crio.do/blog/top-5-javascript-projects-reactjs/
 - Extend project with Redux
 Reference: https://www.youtube.com/watch?v=8jx96lzHNJE
+- Vue.JS Courses
+- - https://www.vuemastery.com/
 
 ## Study extra:
 Good & bad coding: https://www.youtube.com/watch?v=Mus_vwhTCq0<br>
@@ -51,7 +53,6 @@ Mantine: https://mantine.dev/<br>
 
 **Voor User Authentication:**<br>
 Supertokens: https://github.com/supertokens/supertokens-core<br>
-
 
 **2D array functionaliteiten**<br>
 Danfo: https://github.com/javascriptdata/danfojs<br>
