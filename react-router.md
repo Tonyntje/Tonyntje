@@ -37,3 +37,7 @@ https://reactrouter.com/en/main/hooks/use-navigation
 useNavigation returns the current navigation state: it can be one of "idle" | "submitting" | "loading".
 
 Dit gebruik je bijvoorbeeld voor het switchen tussen profielen op een site.
+
+
+# Basis index pagina in Router
+https://reactrouter.com/en/main/start/tutorial#index-routes
