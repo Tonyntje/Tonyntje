@@ -7,13 +7,13 @@
 Wordpress, HTML5, CSS3, Javascript, PHP, Git, Scrum, Debugging, Emmet
 
 Also experienced with:
-Figma, Adobe XD, Photoshop, Illustrator, UX Design, Jest (Test-driven Development), Unit Testing, React, Redux, Router
+Figma, Adobe XD, Photoshop, Illustrator, UX Design, Jest (Test-driven Development), Unit Testing, React, Redux, Router, Vite
 
 Coming soon:
-Typescript
+Typescript, Next.js, React query
 
 Would like to learn:
-Next.js, Vue.js, Angular, Vite, Nuxt, React query, Svelte, Three.js, Machine Learning, Python, Tauri, RedwoodJS
+Vue.js, Angular, Nuxt, Svelte, Three.js, Machine Learning, Python, Tauri, RedwoodJS
 
 ## Idea's:
 - Wiki page in REACT for OP (Advanced Scripting sandbox)<br>
