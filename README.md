@@ -70,7 +70,7 @@ Hoppscotch: https://github.com/hoppscotch/hoppscotch<br>
 **Voor als je niet kan coderen (maar ook voor coders om te snel te werken)**<br>
 Amplication: https://github.com/amplication/amplication<br>
 
-#Cheatsheets:
+# Cheatsheets:
 If you are interested in learning more about these topics, here are some additional resources:
 
 Documentation: GitHub Docs
