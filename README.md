@@ -69,3 +69,13 @@ Hoppscotch: https://github.com/hoppscotch/hoppscotch<br>
 
 **Voor als je niet kan coderen (maar ook voor coders om te snel te werken)**<br>
 Amplication: https://github.com/amplication/amplication<br>
+
+#Cheatsheets:
+If you are interested in learning more about these topics, here are some additional resources:
+
+Documentation: GitHub Docs
+Resource: GitHub Cheatsheet
+Video Playlist: Get Up and Running on Git and GitHub
+Resource: GitHub Learning Lab
+Resource: Markdown and Visual Studio Code
+Resource: GitHub Guide to Markdown
