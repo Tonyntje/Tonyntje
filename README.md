@@ -8,15 +8,15 @@ Wordpress, HTML5, CSS3, Javascript, PHP, Git, Scrum, Debugging, Emmet
 
 Also experienced with:
 Figma, Adobe XD, Photoshop, Illustrator, UX Design, 
-Jest (Test-driven Development), Unit Testing, 
-React, Redux, Router, Vite
+Jest
+React, Redux, Router, Vite, NX, xState, Storybook, Typescript
 Tailwind CSS
 
 Coming soon:
-Typescript, Radix, Headless UI, NX, xState, Storybook
+Next.js, Three.js, FireStore
 
 Would like to learn:
-Vue.js, Angular, Nuxt, Svelte, Three.js, Machine Learning, Python, Tauri, RedwoodJS, Next.js, React query
+Vue.js, Angular, Nuxt, Svelte, Machine Learning, Python, Tauri, RedwoodJS, React query
 
 ## Idea's:
 - Wiki page in REACT for OP (Advanced Scripting sandbox)<br>
@@ -31,12 +31,8 @@ Vue.js, Angular, Nuxt, Svelte, Three.js, Machine Learning, Python, Tauri, Redwoo
 - React fetch and structure data
 - - Use with Axios (Optional Chaining?)
 - - Use Compostion instead of Inheritence
-- - Context API vs Prop Drilling
 - - https://www.crio.do/blog/top-5-javascript-projects-reactjs/
-- Extend project with Redux
 Reference: https://www.youtube.com/watch?v=8jx96lzHNJE
-- Vue.JS Courses
-- - https://www.vuemastery.com/
 
 ## Study extra:
 Good & bad coding: https://www.youtube.com/watch?v=Mus_vwhTCq0<br>
