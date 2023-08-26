@@ -13,7 +13,7 @@ React, Redux, Router, Vite, NX, xState, Storybook, Typescript
 Tailwind CSS
 
 Coming soon:
-Next.js, Three.js, FireStore
+Next.js, Three.js, FireStore, Vercel, PlanetScale, Axiom, Clerk, Upstash
 
 Would like to learn:
 Vue.js, Angular, Nuxt, Svelte, Machine Learning, Python, Tauri, RedwoodJS, React query
@@ -25,6 +25,7 @@ Vue.js, Angular, Nuxt, Svelte, Machine Learning, Python, Tauri, RedwoodJS, React
 - Chat functions bundle incl. dashboard
 - Three.JS -> Sense of Space (polygon streaming)
 - Variable product generator
+- Movie Generator app
 <br>
 
 ## Exersizes:
