@@ -4,19 +4,17 @@
 - 📫 How to reach me tony_nieuwenhuijs@live.nl
 
 ## Development Tools
-Wordpress, HTML5, CSS3, Javascript, PHP, Git, Scrum, Debugging, Emmet
+React, xState, Redux, Nx Monorepo, Storybook, Tailwind, Typescript, Jest, Astro
 
 Also experienced with:
-Figma, Adobe XD, Photoshop, Illustrator, UX Design, 
-Jest
-React, Redux, Router, Vite, NX, xState, Storybook, Typescript
-Tailwind CSS
+Figma, Adobe XD, Photoshop, Illustrator, UX Design, Wordpress, PHP, Git, Scrum, Debugging
+Jira, BitBucket
 
 Coming soon:
-Next.js, Three.js, FireStore, Vercel, PlanetScale, Axiom, Clerk, Upstash
+Next.js, Three.js, FireStore, Vercel, PlanetScale, Axiom, Clerk, Upstash, ElysiaJS, Bun
 
 Would like to learn:
-Vue.js, Angular, Nuxt, Svelte, Machine Learning, Python, Tauri, RedwoodJS, React query
+Svelte, Machine Learning, Python, RedwoodJS, GraphQL
 
 ## Idea's:
 - Wiki page in REACT for OP (Advanced Scripting sandbox)<br>
@@ -41,6 +39,13 @@ Jest Crash Course: https://www.youtube.com/watch?v=7r4xVDI2vho<br>
 Await possibilities: https://www.youtube.com/watch?v=vn3tm0quoqE<br>
 Spline 3D Design: https://spline.design/
 <br>
+
+Deployment: Vercel
+Scalable Database platform: PlanetScale
+Visualizing Data: Axiom
+Serverless Datbase: Upstash
+User Authentication: Clerk
+
 ## 03-22-2022 OS Projects 
 **Voor work thread uitbreiding zoals intercom, google analytics etc.**<br>
 Partytown: https://github.com/BuilderIO/partytown<br>
@@ -61,21 +66,6 @@ Danfo: https://github.com/javascriptdata/danfojs<br>
 Zinc: https://github.com/prabhatsharma/zinc<br>
 MeiliSeach: https://github.com/meilisearch/meilisearch<br>
 
-**Open Source Airtable Alternative**<br>
-NokoDB: https://github.com/nocodb/nocodb<br>
-
 **Alternatief open source Postman gemaakt in JS**<br>
 Hoppscotch: https://github.com/hoppscotch/hoppscotch<br>
 
-**Voor als je niet kan coderen (maar ook voor coders om te snel te werken)**<br>
-Amplication: https://github.com/amplication/amplication<br>
-
-# Cheatsheets:
-If you are interested in learning more about these topics, here are some additional resources:
-
-Documentation: GitHub Docs
-Resource: GitHub Cheatsheet
-Video Playlist: Get Up and Running on Git and GitHub
-Resource: GitHub Learning Lab
-Resource: Markdown and Visual Studio Code
-Resource: GitHub Guide to Markdown
