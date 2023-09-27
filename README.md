@@ -26,17 +26,9 @@ Svelte, Machine Learning, Python, RedwoodJS, GraphQL
 - Movie Generator app
 <br>
 
-## Exersizes:
-- React fetch and structure data
-- - Use with Axios (Optional Chaining?)
-- - Use Compostion instead of Inheritence
-- - https://www.crio.do/blog/top-5-javascript-projects-reactjs/
-Reference: https://www.youtube.com/watch?v=8jx96lzHNJE
-
 ## Study extra:
 Good & bad coding: https://www.youtube.com/watch?v=Mus_vwhTCq0<br>
 Jest Crash Course: https://www.youtube.com/watch?v=7r4xVDI2vho<br>
-Await possibilities: https://www.youtube.com/watch?v=vn3tm0quoqE<br>
 Spline 3D Design: https://spline.design/
 <br>
 
@@ -47,7 +39,22 @@ Serverless Datbase: Upstash
 User Authentication: Clerk
 
 ## 03-22-2022 OS Projects 
-**Voor work thread uitbreiding zoals intercom, google analytics etc.**<br>
+
+Remotion (React for video) - https://www.remotion.dev/
+
+**Email content creation with React**<br>
+React Email - https://react.email/
+
+**One of the best ways to create PDF's in React**<br>
+React PDF - https://react-pdf.org/
+
+**Reactivity in the CLI**<br>
+Ink (React for CLIs) - https://github.com/vadimdemedes/ink
+
+**React as a lens for Three.JS**<br>
+React Three Fiber (3D React) - https://docs.pmnd.rs/react-three-fiber
+
+**Voor work thread uitbreiding zoals intercom, google analytics etc**<br>
 Partytown: https://github.com/BuilderIO/partytown<br>
 
 **End-to-end API i.p.v GraphQL**<br>
