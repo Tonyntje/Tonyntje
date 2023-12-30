@@ -29,7 +29,6 @@ Svelte, Machine Learning, Python, RedwoodJS, GraphQL
 
 ## Study extra:
 Good & bad coding: https://www.youtube.com/watch?v=Mus_vwhTCq0<br>
-Jest Crash Course: https://www.youtube.com/watch?v=7r4xVDI2vho<br>
 Spline 3D Design: https://spline.design/
 <br>
 
