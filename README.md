@@ -24,6 +24,7 @@ Svelte, Machine Learning, Python, RedwoodJS, GraphQL
 - Three.JS -> Sense of Space (polygon streaming)
 - Variable product generator
 - Movie Generator app
+- Too good to got app
 <br>
 
 ## Study extra:
