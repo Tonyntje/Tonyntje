@@ -4,23 +4,22 @@
 - 📫 How to reach me tony_nieuwenhuijs@live.nl
 
 ## Development Tools
-React, xState, Redux, Nx Monorepo, Storybook, Tailwind, Typescript, Jest, Astro
+Prominent: React, xState, Nx Monorepo, Storybook, Tailwind, Typescript, Jest, Astro, Next.js
+Also: Redux
 
 Also experienced with:
 Figma, Adobe XD, Photoshop, Illustrator, UX Design, Wordpress, PHP, Git, Scrum, Debugging
 Jira, BitBucket
 
 Coming soon:
-Next.js, Three.js, FireStore, Vercel, PlanetScale, Axiom, Clerk, Upstash, ElysiaJS, Bun
+Three.js, FireStore, Vercel, PlanetScale, Axiom, Clerk, Upstash, ElysiaJS, Bun, Remix
 
 Would like to learn:
-Svelte, Machine Learning, Python, RedwoodJS, GraphQL
+Svelte, Machine Learning, Python, RedwoodJS, GraphQL, GoLang, 
 
 ## Idea's:
-- Wiki page in REACT for OP (Advanced Scripting sandbox)<br>
 - Pokedex Interactive (Advanced Scripting sandbox)<br>
 - Psychedelic experience website (advanced CSS)<br>
-- Chat functions bundle incl. dashboard
 - Three.JS -> Sense of Space (polygon streaming)
 - Variable product generator
 - Movie Generator app
@@ -30,6 +29,7 @@ Svelte, Machine Learning, Python, RedwoodJS, GraphQL
 ## Study extra:
 Good & bad coding: https://www.youtube.com/watch?v=Mus_vwhTCq0<br>
 Spline 3D Design: https://spline.design/
+Writing effective documentation | Beth Aitman: https://www.youtube.com/watch?v=R6zeikbTgVc
 <br>
 
 Deployment: Vercel
