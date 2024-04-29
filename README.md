@@ -19,11 +19,9 @@ Svelte, Machine Learning, Python, RedwoodJS, GraphQL, GoLang,
 
 ## Idea's:
 - Pokedex Interactive (Advanced Scripting sandbox)<br>
-- Psychedelic experience website (advanced CSS)<br>
 - Three.JS -> Sense of Space (polygon streaming)
 - Variable product generator
 - Movie Generator app
-- Too good to got app
 <br>
 
 ## Study extra:
@@ -36,7 +34,9 @@ Deployment: Vercel
 Scalable Database platform: PlanetScale
 Visualizing Data: Axiom
 Serverless Datbase: Upstash
-User Authentication: Clerk
+User Authentication: Clerk / Lucia Auth / Next.auth
+ORM: Prisma / Drizzle
+File management: Uploadthing
 
 ## 03-22-2022 OS Projects 
 
