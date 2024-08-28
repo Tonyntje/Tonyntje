@@ -8,8 +8,8 @@ Prominent: React, xState, Nx Monorepo, Storybook, Tailwind, Typescript, Jest, As
 Also: Redux
 
 Also experienced with:
-Figma, Adobe XD, Photoshop, Illustrator, UX Design, Wordpress, PHP, Git, Scrum, Debugging
-Jira, BitBucket
+Figma, Adobe XD, Photoshop, Illustrator, UX Design, Wordpress, PHP, Scrum
+Jira, BitBucket, Azure DevOps
 
 Coming soon:
 Three.js, FireStore, Vercel, PlanetScale, Axiom, Clerk, Upstash, ElysiaJS, Bun, Remix
@@ -17,16 +17,17 @@ Three.js, FireStore, Vercel, PlanetScale, Axiom, Clerk, Upstash, ElysiaJS, Bun, 
 Would like to learn:
 Svelte, Machine Learning, Python, RedwoodJS, GraphQL, GoLang, 
 
-## Idea's:
-- Pokedex Interactive (Advanced Scripting sandbox)<br>
-- Three.JS -> Sense of Space (polygon streaming)
-- Variable product generator
-- Movie Generator app
+## Watching:
+- Reactile
+- Astro 4.5+
+- NextJS server comp
+- Framer motion
+- TimescaleDB (Postgres DB scalable & fast)
+- Convex (TRCP BE)
+- Flux.1
 <br>
 
 ## Study extra:
-Good & bad coding: https://www.youtube.com/watch?v=Mus_vwhTCq0<br>
-Spline 3D Design: https://spline.design/
 Writing effective documentation | Beth Aitman: https://www.youtube.com/watch?v=R6zeikbTgVc
 <br>
 
@@ -38,7 +39,7 @@ User Authentication: Clerk / Lucia Auth / Next.auth
 ORM: Prisma / Drizzle
 File management: Uploadthing
 
-## 03-22-2022 OS Projects 
+## 03-22-2022 Interesting Projects 
 
 Remotion (React for video) - https://www.remotion.dev/
 
