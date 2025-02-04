@@ -19,12 +19,11 @@ Svelte, Machine Learning, Python, RedwoodJS, GraphQL, GoLang,
 
 ## Watching:
 - Reactile
-- Astro 4.5+
+- Astro 5+
 - NextJS server comp
 - Framer motion
 - TimescaleDB (Postgres DB scalable & fast)
 - Convex (TRCP BE)
-- Flux.1
 <br>
 
 ## Study extra:
