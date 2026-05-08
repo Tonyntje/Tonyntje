@@ -5,14 +5,11 @@
 
 ## Development Tools
 Prominent: React, xState, Nx Monorepo, Storybook, Tailwind, Typescript, Jest, Astro, Next.js
-Also: Redux
+Also: Redux, Tanstack
 
 Also experienced with:
 Figma, Adobe XD, Photoshop, Illustrator, UX Design, Wordpress, PHP, Scrum
 Jira, BitBucket, Azure DevOps
-
-Coming soon:
-Three.js, FireStore, Vercel, PlanetScale, Axiom, Clerk, Upstash, ElysiaJS, Bun, Remix
 
 Would like to learn:
 Svelte, Machine Learning, Python, RedwoodJS, GraphQL, GoLang, 
